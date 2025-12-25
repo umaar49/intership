@@ -3,7 +3,6 @@
 ## 📖 Introduction
 
 This project analyzes an **Online Retail dataset** to extract business insights through exploratory data analysis (EDA) and interactive visualizations. The focus is on understanding customer behavior, product performance, and sales patterns across different time periods. Additionally, a dashboard is built using **Streamlit** and **Plotly** to make the analysis interactive and user-friendly.
-
 ---
 
 ## 📂 Dataset
